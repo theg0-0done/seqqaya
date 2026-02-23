@@ -1,0 +1,5 @@
+{
+  "name": "Seqqaya : Restaurant & Pizzeria",
+  "description": "Authentic Moroccan Gastronomy and Pizzeria in the heart of Sefrou. Experience traditional flavors and a welcoming atmosphere.",
+  "requestFramePermissions": ["geolocation"]
+}
