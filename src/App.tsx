@@ -842,7 +842,7 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center w-full text-white/20 text-[10px] uppercase tracking-widest font-bold">
           <p>© {new Date().getFullYear()} Seqqaya. All rights reserved.</p>
-          <p className="mt-4 md:mt-0 italic">Sefrou, MOROCO</p>
+          <p>made by <strong>Said Fateh</strong></p>
         </div>
       </div>
     </footer>
